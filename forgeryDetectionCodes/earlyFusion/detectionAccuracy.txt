@@ -1,0 +1,47 @@
+C:\Users\Eren Tahir\Desktop\restoration\datasets\COVERAGE\image
+tp:74, tn:80, fp:20, fn:26
+recall:0.74
+C:\Users\Eren Tahir\Desktop\restoration\processedData\Gaussian_Color_Denoising\non_blind\COVERAGE\15
+tp:52, tn:72, fp:28, fn:48
+recall:0.52
+C:\Users\Eren Tahir\Desktop\restoration\processedData\Gaussian_Color_Denoising\non_blind\COVERAGE\25
+tp:45, tn:73, fp:27, fn:55
+recall:0.45
+C:\Users\Eren Tahir\Desktop\restoration\processedData\JPEGcompress_RemoveArtifacts\COVERAGE_fbcnn_color\50
+tp:51, tn:64, fp:36, fn:49
+recall:0.51
+C:\Users\Eren Tahir\Desktop\restoration\processedData\JPEGcompress_RemoveArtifacts\COVERAGE_fbcnn_color\70
+tp:55, tn:69, fp:31, fn:45
+recall:0.55
+C:\Users\Eren Tahir\Desktop\restoration\processedData\SharpAndBlur\COVERAGEBlurAndSharp
+tp:42, tn:58, fp:42, fn:58
+recall:0.42
+C:\Users\Eren Tahir\Desktop\restoration\processedData\ResizeAndResize\COVERAGE_resizeResize
+tp:46, tn:58, fp:42, fn:54
+recall:0.46
+
+
+C:\Users\Eren Tahir\Desktop\restoration\datasets\dso-1\tifs-database\DSO-1
+tp:95, tn:82, fp:18, fn:5
+recall:0.95
+C:\Users\Eren Tahir\Desktop\restoration\processedData\Gaussian_Color_Denoising\non_blind\DSO-1\15
+tp:53, tn:83, fp:17, fn:47
+recall:0.53
+C:\Users\Eren Tahir\Desktop\restoration\processedData\Gaussian_Color_Denoising\non_blind\DSO-1\25
+tp:35, tn:91, fp:9, fn:65
+recall:0.35
+C:\Users\Eren Tahir\Desktop\restoration\processedData\JPEGcompress_RemoveArtifacts\DSO-1_fbcnn_color\50
+tp:70, tn:41, fp:59, fn:30
+recall:0.7
+C:\Users\Eren Tahir\Desktop\restoration\processedData\JPEGcompress_RemoveArtifacts\DSO-1_fbcnn_color\70
+tp:78, tn:41, fp:59, fn:22
+recall:0.78
+C:\Users\Eren Tahir\Desktop\restoration\processedData\SharpAndBlur\DSO-1BlurAndSharp
+tp:81, tn:45, fp:55, fn:19
+recall:0.81
+C:\Users\Eren Tahir\Desktop\restoration\processedData\ResizeAndResize\DSO-1_resizeResize
+tp:81, tn:64, fp:36, fn:19
+recall:0.81
+C:\Users\Eren Tahir\Desktop\restoration\processedData\DownscaleAndUpscale\DSO-1_SwinFIR
+tp:53, tn:85, fp:15, fn:47
+recall:0.53

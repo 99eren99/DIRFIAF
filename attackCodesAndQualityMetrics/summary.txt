@@ -1,0 +1,15 @@
+COVERAGE, blur and sharp, average psnr 32.69393712128793, average ssim 0.9404738778547358, mean brisque:37.14722778320313
+COVERAGE, resize and resize, average psnr 32.0761666561529, average ssim 0.9437961323154558, mean brisque:34.2573291015625
+COVERAGE, sigma 15, average psnr 37.35090921913329, average ssim 0.960871355057135, mean brisque:36.035391845703124
+COVERAGE, sigma 25, average psnr 34.908933496429604, average ssim 0.941883559221704, mean brisque:39.19661254882813
+Average PSNR/SSIM/PSNRB - COVERAGE_fbcnn_color_50 -: 35.68, 0.9553, 34.88, mean brisque:38.870859375
+Average PSNR/SSIM/PSNRB - COVERAGE_fbcnn_color_70 -: 37.30, 0.9663, 36.30, mean brisque:35.710089111328124
+
+
+DSO-1, blur and sharp, average psnr 38.923828886070375, average ssim 0.9506076318601618, mean brisque:24.10259521484375
+DSO-1, resize and resize, average psnr 39.70056963412309, average ssim 0.9644323713805365, mean brisque:30.97092041015625
+DSO-1, sigma 15, average psnr 37.71769688989211, average ssim 0.9263080012179988, mean brisque:35.92447998046875
+DSO-1, sigma 25, average psnr 36.02572382701023, average ssim 0.9059063384157952, mean brisque:43.67478759765625
+Average PSNR/SSIM/PSNRB - DSO-1_fbcnn_color_50 -: 37.29, 0.9248, 37.04, mean brisque:41.6908447265625
+Average PSNR/SSIM/PSNRB - DSO-1_fbcnn_color_70 -: 38.65, 0.9404, 38.29, mean brisque:33.2881298828125
+DSO-1, downscale and upscale(SR2x), average psnr 38.6122837545326, average ssim 0.9562578232891108, mean brisque:30.70074462890625

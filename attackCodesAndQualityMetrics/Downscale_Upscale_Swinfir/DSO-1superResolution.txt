@@ -1,0 +1,588 @@
+Testing 0 normal-01
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-01.png psnr:44.53837695777278 , ssim:0.9894635916525211
+Testing 1 normal-02
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-02.png psnr:49.078250525532276 , ssim:0.9914053474355818
+Testing 2 normal-03
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-03.png psnr:50.09424308842412 , ssim:0.9924853778124789
+Testing 3 normal-04
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-04.png psnr:40.15879980523614 , ssim:0.9849703318071971
+Testing 4 normal-05
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-05.png psnr:32.69910278638231 , ssim:0.943976984298993
+Testing 5 normal-06
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-06.png psnr:42.260367044030914 , ssim:0.9801596803683349
+Testing 6 normal-07
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-07.png psnr:38.24572076398421 , ssim:0.9675049343378946
+Testing 7 normal-08
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-08.png psnr:35.92093902048268 , ssim:0.9618377376387673
+Testing 8 normal-09
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-09.png psnr:37.48932853969976 , ssim:0.9681041739481969
+Testing 9 normal-10
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-10.png psnr:38.11119091575374 , ssim:0.970659184085302
+Testing 10 normal-100
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-100.png psnr:27.328626829846012 , ssim:0.8992376915003993
+Testing 11 normal-11
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-11.png psnr:35.56029710254707 , ssim:0.9677826573282027
+Testing 12 normal-12
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-12.png psnr:33.726052566864894 , ssim:0.9585816951762786
+Testing 13 normal-13
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-13.png psnr:42.176389099048144 , ssim:0.9678892116259817
+Testing 14 normal-14
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-14.png psnr:35.16649201434404 , ssim:0.9446063150426433
+Testing 15 normal-15
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-15.png psnr:32.635906626390316 , ssim:0.9260965872453933
+Testing 16 normal-16
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-16.png psnr:40.18265937172825 , ssim:0.955350606186241
+Testing 17 normal-17
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-17.png psnr:39.751645178073495 , ssim:0.9548326524170232
+Testing 18 normal-18
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-18.png psnr:42.89285928404199 , ssim:0.9642213941288794
+Testing 19 normal-19
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-19.png psnr:36.990474673867794 , ssim:0.9496374029804783
+Testing 20 normal-20
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-20.png psnr:35.98075473311444 , ssim:0.9348353649445875
+Testing 21 normal-21
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-21.png psnr:35.18456582244193 , ssim:0.9429482293117964
+Testing 22 normal-22
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-22.png psnr:35.10095454683562 , ssim:0.9435623045220088
+Testing 23 normal-23
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-23.png psnr:35.35174114705943 , ssim:0.9423061673353841
+Testing 24 normal-24
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-24.png psnr:40.2962357245 , ssim:0.9564653951246213
+Testing 25 normal-25
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-25.png psnr:40.137025386803685 , ssim:0.9546187112948727
+Testing 26 normal-26
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-26.png psnr:36.63483632809131 , ssim:0.8993545306173139
+Testing 27 normal-27
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-27.png psnr:42.73732973296252 , ssim:0.968075731980156
+Testing 28 normal-28
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-28.png psnr:50.53642818788464 , ssim:0.992977257500122
+Testing 29 normal-29
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-29.png psnr:38.64257895058104 , ssim:0.9565988235656538
+Testing 30 normal-30
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-30.png psnr:37.53214144273887 , ssim:0.9449075879402343
+Testing 31 normal-31
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-31.png psnr:38.61085965265967 , ssim:0.9591769231783176
+Testing 32 normal-32
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-32.png psnr:36.35008686519584 , ssim:0.9447521967113711
+Testing 33 normal-33
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-33.png psnr:34.466949136278046 , ssim:0.9292184055498037
+Testing 34 normal-34
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-34.png psnr:41.41498245059207 , ssim:0.9669861325721878
+Testing 35 normal-35
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-35.png psnr:39.74375652628659 , ssim:0.9579048608158285
+Testing 36 normal-36
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-36.png psnr:38.15894665812758 , ssim:0.9597424743821694
+Testing 37 normal-37
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-37.png psnr:36.469740108000735 , ssim:0.9628520024735187
+Testing 38 normal-38
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-38.png psnr:38.90587212708303 , ssim:0.9434547810158033
+Testing 39 normal-39
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-39.png psnr:36.86758770125826 , ssim:0.902881190562355
+Testing 40 normal-40
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-40.png psnr:38.83870619784807 , ssim:0.9576495026531546
+Testing 41 normal-41
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-41.png psnr:39.66103136355531 , ssim:0.9579682184196351
+Testing 42 normal-42
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-42.png psnr:42.243701048341805 , ssim:0.963497428826431
+Testing 43 normal-43
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-43.png psnr:38.0941894952396 , ssim:0.9554755031828996
+Testing 44 normal-44
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-44.png psnr:42.224794128952865 , ssim:0.9659211176382815
+Testing 45 normal-45
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-45.png psnr:41.214558075491425 , ssim:0.9598185335724843
+Testing 46 normal-46
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-46.png psnr:40.569575857715364 , ssim:0.952275975090565
+Testing 47 normal-47
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-47.png psnr:39.58675685057992 , ssim:0.952169130234711
+Testing 48 normal-48
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-48.png psnr:42.02520873942657 , ssim:0.9672431360379946
+Testing 49 normal-49
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-49.png psnr:36.55846965087963 , ssim:0.8970654907616996
+Testing 50 normal-50
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-50.png psnr:37.189619600224994 , ssim:0.9061038731587305
+Testing 51 normal-51
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-51.png psnr:40.03760626086152 , ssim:0.9618061034848825
+Testing 52 normal-52
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-52.png psnr:37.27273500070702 , ssim:0.9590674918701853
+Testing 53 normal-53
+datasets/DSO-1\normal-53.png psnr:34.57201224833981 , ssim:0.9448075539789617
+Testing 54 normal-54
+datasets/DSO-1\normal-54.png psnr:35.242921656062066 , ssim:0.9501614015158538
+Testing 55 normal-55
+datasets/DSO-1\normal-55.png psnr:38.44232978006671 , ssim:0.9638312788099787
+Testing 56 normal-56
+datasets/DSO-1\normal-56.png psnr:40.36263284154848 , ssim:0.9673832459259682
+Testing 57 normal-57
+datasets/DSO-1\normal-57.png psnr:35.87871156237982 , ssim:0.9427805969847037
+Testing 58 normal-58
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-58.png psnr:30.274112985187756 , ssim:0.9118782195679865
+Testing 59 normal-59
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-59.png psnr:42.060741425537785 , ssim:0.9724173326688001
+Testing 60 normal-60
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-60.png psnr:41.359406397455054 , ssim:0.974955326581218
+Testing 61 normal-61
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-61.png psnr:44.1029091553812 , ssim:0.9748288917560255
+Testing 62 normal-62
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-62.png psnr:38.83413450038678 , ssim:0.9630819087940141
+Testing 63 normal-63
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-63.png psnr:38.3682840172678 , ssim:0.9575465739133061
+Testing 64 normal-64
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-64.png psnr:29.54928161952374 , ssim:0.9041009807493471
+Testing 65 normal-65
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-65.png psnr:43.5694457057177 , ssim:0.9759346528125027
+Testing 66 normal-66
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-66.png psnr:41.95737840205912 , ssim:0.9665007962189377
+Testing 67 normal-67
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-67.png psnr:43.70072779603003 , ssim:0.9759110391539801
+Testing 68 normal-68
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-68.png psnr:40.91082779776504 , ssim:0.9612691913660992
+Testing 69 normal-69
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-69.png psnr:38.24668668483918 , ssim:0.9421530354112692
+Testing 70 normal-70
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-70.png psnr:42.09981491866241 , ssim:0.9679814477712853
+Testing 71 normal-71
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-71.png psnr:39.878531008364874 , ssim:0.9546790933202135
+Testing 72 normal-72
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-72.png psnr:45.4403192353564 , ssim:0.979097610849894
+Testing 73 normal-73
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-73.png psnr:33.633750273084715 , ssim:0.9516220881499495
+Testing 74 normal-74
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-74.png psnr:39.855353212297835 , ssim:0.9690947172265386
+Testing 75 normal-75
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-75.png psnr:37.15868425018733 , ssim:0.9394858219561274
+Testing 76 normal-76
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-76.png psnr:36.041661736041505 , ssim:0.9342323085125762
+Testing 77 normal-77
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-77.png psnr:34.670854346643615 , ssim:0.9505904556662929
+Testing 78 normal-78
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-78.png psnr:39.608006051874845 , ssim:0.9704541022836132
+Testing 79 normal-79
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-79.png psnr:39.0922866596368 , ssim:0.9536320183815147
+Testing 80 normal-80
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-80.png psnr:40.35097988857472 , ssim:0.9617829434434246
+Testing 81 normal-81
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-81.png psnr:34.613868593692644 , ssim:0.9460297121021372
+Testing 82 normal-82
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-82.png psnr:35.48887631172639 , ssim:0.9516772395755758
+Testing 83 normal-83
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-83.png psnr:39.02187665809653 , ssim:0.9558858959314733
+Testing 84 normal-84
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-84.png psnr:40.46294518561811 , ssim:0.9512626968584043
+Testing 85 normal-85
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-85.png psnr:41.59770940839557 , ssim:0.9704552642902797
+Testing 86 normal-86
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-86.png psnr:38.23644159905531 , ssim:0.9562862394689775
+Testing 87 normal-87
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-87.png psnr:36.38853768710624 , ssim:0.9801111716322977
+Testing 88 normal-88
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-88.png psnr:42.88290142369287 , ssim:0.9900296267050868
+Testing 89 normal-89
+datasets/DSO-1\normal-89.png psnr:37.307209916000886 , ssim:0.9609334443514469
+Testing 90 normal-90
+datasets/DSO-1\normal-90.png psnr:34.499232766415155 , ssim:0.9621702797318553
+Testing 91 normal-91
+datasets/DSO-1\normal-91.png psnr:38.21462982084647 , ssim:0.9541937477737507
+Testing 92 normal-92
+datasets/DSO-1\normal-92.png psnr:36.78068488192839 , ssim:0.9517137961543494
+Testing 93 normal-93
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-93.png psnr:37.072639782782325 , ssim:0.9403161298729837
+Testing 94 normal-94
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-94.png psnr:37.68325992979301 , ssim:0.9546287776675975
+Testing 95 normal-95
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-95.png psnr:38.24155916176424 , ssim:0.9427492124689086
+Testing 96 normal-96
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-96.png psnr:30.794791537026992 , ssim:0.9047865273695823
+Testing 97 normal-97
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-97.png psnr:42.72986968993042 , ssim:0.9641460650596035
+Testing 98 normal-98
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-98.png psnr:38.41012638307707 , ssim:0.9441788365987454
+Testing 99 normal-99
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\normal-99.png psnr:31.361859927779566 , ssim:0.9349149074270006
+Testing 100 splicing-01
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-01.png psnr:44.91520201526897 , ssim:0.9892626123562466
+Testing 101 splicing-02
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-02.png psnr:46.346239236948534 , ssim:0.9895981594720692
+Testing 102 splicing-03
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-03.png psnr:48.959899021796254 , ssim:0.9921590142189971
+Testing 103 splicing-04
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-04.png psnr:48.491835150078714 , ssim:0.9909719693525476
+Testing 104 splicing-05
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-05.png psnr:43.93809248565415 , ssim:0.9753481072176751
+Testing 105 splicing-06
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-06.png psnr:30.96215950965249 , ssim:0.9524675153987149
+Testing 106 splicing-07
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-07.png psnr:40.95400570136832 , ssim:0.9752075257377859
+Testing 107 splicing-08
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+datasets/DSO-1\splicing-08.png psnr:35.520985086916724 , ssim:0.9713771847589249
+Testing 108 splicing-09
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-09.png psnr:37.063699583632456 , ssim:0.9582996128181555
+Testing 109 splicing-10
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-10.png psnr:37.60506364847303 , ssim:0.9288316663262469
+Testing 110 splicing-100
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-100.png psnr:33.58852535686799 , ssim:0.9050466406708485
+Testing 111 splicing-11
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-11.png psnr:47.95101526007673 , ssim:0.9918180912050452
+Testing 112 splicing-12
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-12.png psnr:43.86640414554484 , ssim:0.9868322175713438
+Testing 113 splicing-13
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-13.png psnr:48.38698279550444 , ssim:0.9916969005014101
+Testing 114 splicing-14
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-14.png psnr:36.250549727569876 , ssim:0.9787261159615653
+Testing 115 splicing-15
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-15.png psnr:35.80365117814586 , ssim:0.9850331127510624
+Testing 116 splicing-16
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-16.png psnr:41.36002895475612 , ssim:0.9899400387807721
+Testing 117 splicing-17
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-17.png psnr:33.23343823021068 , ssim:0.9749314580755678
+Testing 118 splicing-18
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-18.png psnr:43.82946388762889 , ssim:0.988914366540753
+Testing 119 splicing-19
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-19.png psnr:40.11787342360269 , ssim:0.9820526199613203
+Testing 120 splicing-20
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-20.png psnr:40.84178375995859 , ssim:0.9915858979593534
+Testing 121 splicing-21
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-21.png psnr:32.741639822961005 , ssim:0.9695600390281583
+Testing 122 splicing-22
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-22.png psnr:41.42515646028574 , ssim:0.9843031445489642
+Testing 123 splicing-23
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-23.png psnr:40.19053258392479 , ssim:0.9790286880854385
+Testing 124 splicing-24
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-24.png psnr:45.95458982341496 , ssim:0.9899683445578282
+Testing 125 splicing-25
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-25.png psnr:32.60875582449804 , ssim:0.9626757205555224
+Testing 126 splicing-26
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-26.png psnr:40.01993473674731 , ssim:0.9860461289732122
+Testing 127 splicing-27
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-27.png psnr:37.000584887256494 , ssim:0.9830374543066783
+Testing 128 splicing-28
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-28.png psnr:38.948411386848896 , ssim:0.987029479656267
+Testing 129 splicing-29
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-29.png psnr:44.0889902302589 , ssim:0.9856492576151238
+Testing 130 splicing-30
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-30.png psnr:42.468279357084214 , ssim:0.9829231504975856
+Testing 131 splicing-31
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-31.png psnr:38.923593854275424 , ssim:0.9641363827052526
+Testing 132 splicing-32
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-32.png psnr:44.8006876076207 , ssim:0.9801610545932693
+Testing 133 splicing-33
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-33.png psnr:32.661793818465654 , ssim:0.9392273474585425
+Testing 134 splicing-34
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-34.png psnr:37.78599564484766 , ssim:0.9648680416020037
+Testing 135 splicing-35
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-35.png psnr:35.04751645562691 , ssim:0.9702728646277903
+Testing 136 splicing-36
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-36.png psnr:37.64444245053636 , ssim:0.9433423210650013
+Testing 137 splicing-37
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-37.png psnr:37.09622042325804 , ssim:0.9568242803605026
+Testing 138 splicing-38
+datasets/DSO-1\splicing-38.png psnr:32.818937267259436 , ssim:0.9422767911743669
+Testing 139 splicing-39
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-39.png psnr:27.91249237759265 , ssim:0.9098123547330784
+Testing 140 splicing-40
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-40.png psnr:41.996544950758405 , ssim:0.9861633604254392
+Testing 141 splicing-41
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-41.png psnr:48.792557744786755 , ssim:0.9912843770903903
+Testing 142 splicing-42
+datasets/DSO-1\splicing-42.png psnr:37.28389271316949 , ssim:0.9443086693620311
+Testing 143 splicing-43
+datasets/DSO-1\splicing-43.png psnr:36.83465554948 , ssim:0.9522586547371276
+Testing 144 splicing-44
+datasets/DSO-1\splicing-44.png psnr:33.42955451915748 , ssim:0.9524463622024699
+Testing 145 splicing-45
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-45.png psnr:42.98135188382879 , ssim:0.9789287735191614
+Testing 146 splicing-46
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-46.png psnr:40.98257602832209 , ssim:0.9851481045522442
+Testing 147 splicing-47
+datasets/DSO-1\splicing-47.png psnr:27.448760661468505 , ssim:0.9015066478149295
+Testing 148 splicing-48
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-48.png psnr:37.212561657837114 , ssim:0.9590483383504301
+Testing 149 splicing-49
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-49.png psnr:33.63152628002966 , ssim:0.9104014217271544
+Testing 150 splicing-50
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-50.png psnr:40.1930988990724 , ssim:0.953391575223678
+Testing 151 splicing-51
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-51.png psnr:51.36936659261415 , ssim:0.9950694018457584
+Testing 152 splicing-52
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-52.png psnr:40.74245794301551 , ssim:0.9477139389930148
+Testing 153 splicing-53
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-53.png psnr:34.98152316944444 , ssim:0.8964479465905685
+Testing 154 splicing-54
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-54.png psnr:37.49452012047931 , ssim:0.9569429700855555
+Testing 155 splicing-55
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-55.png psnr:37.99876306621556 , ssim:0.9361356418427906
+Testing 156 splicing-56
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-56.png psnr:40.26707404017044 , ssim:0.9508759939497144
+Testing 157 splicing-57
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-57.png psnr:40.335104706126316 , ssim:0.9525437324031757
+Testing 158 splicing-58
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-58.png psnr:34.897417093759614 , ssim:0.9439240200004323
+Testing 159 splicing-59
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-59.png psnr:50.99590096205379 , ssim:0.9945870595955578
+Testing 160 splicing-60
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-60.png psnr:33.800350381722396 , ssim:0.9409418386971896
+Testing 161 splicing-61
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-61.png psnr:39.9126286949568 , ssim:0.9658245815470052
+Testing 162 splicing-62
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-62.png psnr:45.82164992792035 , ssim:0.9794073728321019
+Testing 163 splicing-63
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-63.png psnr:34.295086181735165 , ssim:0.9528725114982377
+Testing 164 splicing-64
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-64.png psnr:36.94211356066813 , ssim:0.9589804402890222
+Testing 165 splicing-65
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-65.png psnr:37.77952685179394 , ssim:0.9586201038941291
+Testing 166 splicing-66
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-66.png psnr:36.791913426325955 , ssim:0.9474357627748456
+Testing 167 splicing-67
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-67.png psnr:36.212089552844745 , ssim:0.9573963254754915
+Testing 168 splicing-68
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-68.png psnr:35.83243841070465 , ssim:0.9432825561998559
+Testing 169 splicing-69
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-69.png psnr:27.609018033164084 , ssim:0.9106242830105163
+Testing 170 splicing-70
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-70.png psnr:28.980121537860096 , ssim:0.9265050542624064
+Testing 171 splicing-71
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-71.png psnr:36.843569159500575 , ssim:0.9378059214080477
+Testing 172 splicing-72
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-72.png psnr:32.12154449825213 , ssim:0.8651472612154597
+Testing 173 splicing-73
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-73.png psnr:33.75515673626158 , ssim:0.956784281202736
+Testing 174 splicing-74
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-74.png psnr:38.85152359442719 , ssim:0.9594169478389354
+Testing 175 splicing-75
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-75.png psnr:38.748211540653664 , ssim:0.9618157011754547
+Testing 176 splicing-76
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-76.png psnr:41.01524458489881 , ssim:0.9788155028293014
+Testing 177 splicing-77
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-77.png psnr:37.622841017996784 , ssim:0.9505762785822965
+Testing 178 splicing-78
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-78.png psnr:36.78355257846229 , ssim:0.9422285897830691
+Testing 179 splicing-79
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-79.png psnr:37.65696057632771 , ssim:0.9308333504297068
+Testing 180 splicing-80
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-80.png psnr:36.1707773606269 , ssim:0.9131455655154266
+Testing 181 splicing-81
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-81.png psnr:43.85444394115886 , ssim:0.9788066012484129
+Testing 182 splicing-82
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-82.png psnr:38.55462874951185 , ssim:0.9508538923386016
+Testing 183 splicing-83
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-83.png psnr:37.364407238703784 , ssim:0.9653375444464182
+Testing 184 splicing-84
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-84.png psnr:35.48613322059453 , ssim:0.9129976704799367
+Testing 185 splicing-85
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-85.png psnr:37.293173308389186 , ssim:0.9520377684867345
+Testing 186 splicing-86
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-86.png psnr:33.06760174649022 , ssim:0.9399364148171331
+Testing 187 splicing-87
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-87.png psnr:38.27480419259541 , ssim:0.9284043969216601
+Testing 188 splicing-88
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-88.png psnr:36.573444024816524 , ssim:0.9474404874460228
+Testing 189 splicing-89
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-89.png psnr:50.98114107436106 , ssim:0.9959386635157266
+Testing 190 splicing-90
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-90.png psnr:34.20230071997639 , ssim:0.8803421180023676
+Testing 191 splicing-91
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-91.png psnr:46.37109229317573 , ssim:0.9826705439633319
+Testing 192 splicing-92
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-92.png psnr:35.55140853496948 , ssim:0.9100204580219783
+Testing 193 splicing-93
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-93.png psnr:38.94662602263597 , ssim:0.9452383418943496
+Testing 194 splicing-94
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-94.png psnr:40.8048714039543 , ssim:0.9690133974606149
+Testing 195 splicing-95
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-95.png psnr:35.643414951423956 , ssim:0.94079979737375
+Testing 196 splicing-96
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-96.png psnr:35.75477282184886 , ssim:0.9355407675178514
+Testing 197 splicing-97
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-97.png psnr:37.01985545429929 , ssim:0.9763244022310986
+Testing 198 splicing-98
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-98.png psnr:36.12918152861622 , ssim:0.9176292604589306
+Testing 199 splicing-99
+libpng warning: iCCP: known incorrect sRGB profile
+datasets/DSO-1\splicing-99.png psnr:40.34261520431257 , ssim:0.9662528984863913
+datasets/DSO-1, downscale and upscale, average psnr 38.6122837545326, average ssim 0.9562578232891108

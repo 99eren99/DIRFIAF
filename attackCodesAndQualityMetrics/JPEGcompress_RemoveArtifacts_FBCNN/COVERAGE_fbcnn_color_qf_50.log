@@ -1,0 +1,603 @@
+24-04-21 12:23:49.159 : --------------- quality factor: 50 ---------------
+24-04-21 12:23:52.200 : Model path: model_zoo\fbcnn_color.pth
+24-04-21 12:23:52.200 : ---1-->      1.tif
+24-04-21 12:23:53.382 : 1.tif - PSNR: 35.43 dB; SSIM: 0.971; PSNRB: 33.15 dB.
+24-04-21 12:23:53.382 : predicted quality factor: 50
+24-04-21 12:23:53.392 : ---2-->     10.tif
+24-04-21 12:23:53.866 : 10.tif - PSNR: 39.21 dB; SSIM: 0.976; PSNRB: 39.21 dB.
+24-04-21 12:23:53.866 : predicted quality factor: 50
+24-04-21 12:23:53.886 : ---3-->    100.tif
+24-04-21 12:23:54.367 : 100.tif - PSNR: 36.97 dB; SSIM: 0.958; PSNRB: 36.82 dB.
+24-04-21 12:23:54.388 : predicted quality factor: 50
+24-04-21 12:23:54.398 : ---4-->   100t.tif
+24-04-21 12:23:54.869 : 100t.tif - PSNR: 36.79 dB; SSIM: 0.957; PSNRB: 36.22 dB.
+24-04-21 12:23:54.869 : predicted quality factor: 50
+24-04-21 12:23:54.892 : ---5-->    10t.tif
+24-04-21 12:23:55.344 : 10t.tif - PSNR: 39.15 dB; SSIM: 0.976; PSNRB: 39.15 dB.
+24-04-21 12:23:55.344 : predicted quality factor: 50
+24-04-21 12:23:55.366 : ---6-->     11.tif
+24-04-21 12:23:55.749 : 11.tif - PSNR: 33.14 dB; SSIM: 0.942; PSNRB: 32.14 dB.
+24-04-21 12:23:55.749 : predicted quality factor: 50
+24-04-21 12:23:55.767 : ---7-->    11t.tif
+24-04-21 12:23:56.143 : 11t.tif - PSNR: 32.99 dB; SSIM: 0.942; PSNRB: 32.40 dB.
+24-04-21 12:23:56.143 : predicted quality factor: 50
+24-04-21 12:23:56.163 : ---8-->     12.tif
+24-04-21 12:23:56.408 : 12.tif - PSNR: 32.97 dB; SSIM: 0.955; PSNRB: 32.93 dB.
+24-04-21 12:23:56.408 : predicted quality factor: 50
+24-04-21 12:23:56.428 : ---9-->    12t.tif
+24-04-21 12:23:56.659 : 12t.tif - PSNR: 33.13 dB; SSIM: 0.954; PSNRB: 33.13 dB.
+24-04-21 12:23:56.659 : predicted quality factor: 50
+24-04-21 12:23:56.669 : --10-->     13.tif
+24-04-21 12:23:57.363 : 13.tif - PSNR: 36.05 dB; SSIM: 0.954; PSNRB: 35.82 dB.
+24-04-21 12:23:57.363 : predicted quality factor: 50
+24-04-21 12:23:57.383 : --11-->    13t.tif
+24-04-21 12:23:58.079 : 13t.tif - PSNR: 36.01 dB; SSIM: 0.955; PSNRB: 35.78 dB.
+24-04-21 12:23:58.079 : predicted quality factor: 50
+24-04-21 12:23:58.100 : --12-->     14.tif
+24-04-21 12:23:58.425 : 14.tif - PSNR: 38.19 dB; SSIM: 0.932; PSNRB: 38.19 dB.
+24-04-21 12:23:58.426 : predicted quality factor: 50
+24-04-21 12:23:58.435 : --13-->    14t.tif
+24-04-21 12:23:58.750 : 14t.tif - PSNR: 38.13 dB; SSIM: 0.932; PSNRB: 38.01 dB.
+24-04-21 12:23:58.750 : predicted quality factor: 50
+24-04-21 12:23:58.760 : --14-->     15.tif
+24-04-21 12:23:59.156 : 15.tif - PSNR: 35.65 dB; SSIM: 0.956; PSNRB: 35.29 dB.
+24-04-21 12:23:59.159 : predicted quality factor: 50
+24-04-21 12:23:59.174 : --15-->    15t.tif
+24-04-21 12:23:59.548 : 15t.tif - PSNR: 35.70 dB; SSIM: 0.957; PSNRB: 35.33 dB.
+24-04-21 12:23:59.548 : predicted quality factor: 50
+24-04-21 12:23:59.558 : --16-->     16.tif
+24-04-21 12:23:59.914 : 16.tif - PSNR: 40.05 dB; SSIM: 0.962; PSNRB: 39.71 dB.
+24-04-21 12:23:59.919 : predicted quality factor: 50
+24-04-21 12:23:59.924 : --17-->    16t.tif
+24-04-21 12:24:00.278 : 16t.tif - PSNR: 39.78 dB; SSIM: 0.962; PSNRB: 39.46 dB.
+24-04-21 12:24:00.279 : predicted quality factor: 50
+24-04-21 12:24:00.288 : --18-->     17.tif
+24-04-21 12:24:00.824 : 17.tif - PSNR: 38.34 dB; SSIM: 0.972; PSNRB: 35.98 dB.
+24-04-21 12:24:00.824 : predicted quality factor: 50
+24-04-21 12:24:00.836 : --19-->    17t.tif
+24-04-21 12:24:01.369 : 17t.tif - PSNR: 38.42 dB; SSIM: 0.973; PSNRB: 34.50 dB.
+24-04-21 12:24:01.369 : predicted quality factor: 50
+24-04-21 12:24:01.389 : --20-->     18.tif
+24-04-21 12:24:01.780 : 18.tif - PSNR: 36.74 dB; SSIM: 0.961; PSNRB: 36.38 dB.
+24-04-21 12:24:01.791 : predicted quality factor: 50
+24-04-21 12:24:01.801 : --21-->    18t.tif
+24-04-21 12:24:02.194 : 18t.tif - PSNR: 36.37 dB; SSIM: 0.960; PSNRB: 35.85 dB.
+24-04-21 12:24:02.194 : predicted quality factor: 50
+24-04-21 12:24:02.214 : --22-->     19.tif
+24-04-21 12:24:02.622 : 19.tif - PSNR: 35.19 dB; SSIM: 0.959; PSNRB: 34.59 dB.
+24-04-21 12:24:02.622 : predicted quality factor: 50
+24-04-21 12:24:02.637 : --23-->    19t.tif
+24-04-21 12:24:03.059 : 19t.tif - PSNR: 35.07 dB; SSIM: 0.958; PSNRB: 34.80 dB.
+24-04-21 12:24:03.059 : predicted quality factor: 50
+24-04-21 12:24:03.080 : --24-->     1t.tif
+24-04-21 12:24:03.463 : 1t.tif - PSNR: 35.17 dB; SSIM: 0.970; PSNRB: 32.88 dB.
+24-04-21 12:24:03.463 : predicted quality factor: 50
+24-04-21 12:24:03.484 : --25-->      2.tif
+24-04-21 12:24:03.857 : 2.tif - PSNR: 34.60 dB; SSIM: 0.965; PSNRB: 33.00 dB.
+24-04-21 12:24:03.857 : predicted quality factor: 50
+24-04-21 12:24:03.867 : --26-->     20.tif
+24-04-21 12:24:04.414 : 20.tif - PSNR: 33.61 dB; SSIM: 0.947; PSNRB: 33.11 dB.
+24-04-21 12:24:04.420 : predicted quality factor: 50
+24-04-21 12:24:04.441 : --27-->    20t.tif
+24-04-21 12:24:04.929 : 20t.tif - PSNR: 33.35 dB; SSIM: 0.946; PSNRB: 32.80 dB.
+24-04-21 12:24:04.929 : predicted quality factor: 50
+24-04-21 12:24:04.949 : --28-->     21.tif
+24-04-21 12:24:05.386 : 21.tif - PSNR: 39.87 dB; SSIM: 0.967; PSNRB: 39.87 dB.
+24-04-21 12:24:05.386 : predicted quality factor: 50
+24-04-21 12:24:05.415 : --29-->    21t.tif
+24-04-21 12:24:05.838 : 21t.tif - PSNR: 39.73 dB; SSIM: 0.967; PSNRB: 39.73 dB.
+24-04-21 12:24:05.848 : predicted quality factor: 50
+24-04-21 12:24:05.868 : --30-->     22.tif
+24-04-21 12:24:06.222 : 22.tif - PSNR: 36.59 dB; SSIM: 0.956; PSNRB: 36.27 dB.
+24-04-21 12:24:06.222 : predicted quality factor: 50
+24-04-21 12:24:06.242 : --31-->    22t.tif
+24-04-21 12:24:06.597 : 22t.tif - PSNR: 36.53 dB; SSIM: 0.956; PSNRB: 36.17 dB.
+24-04-21 12:24:06.599 : predicted quality factor: 50
+24-04-21 12:24:06.620 : --32-->     23.tif
+24-04-21 12:24:07.030 : 23.tif - PSNR: 33.73 dB; SSIM: 0.958; PSNRB: 32.57 dB.
+24-04-21 12:24:07.030 : predicted quality factor: 50
+24-04-21 12:24:07.049 : --33-->    23t.tif
+24-04-21 12:24:07.454 : 23t.tif - PSNR: 33.36 dB; SSIM: 0.958; PSNRB: 31.71 dB.
+24-04-21 12:24:07.454 : predicted quality factor: 50
+24-04-21 12:24:07.465 : --34-->     24.tif
+24-04-21 12:24:07.758 : 24.tif - PSNR: 32.56 dB; SSIM: 0.960; PSNRB: 32.19 dB.
+24-04-21 12:24:07.758 : predicted quality factor: 50
+24-04-21 12:24:07.782 : --35-->    24t.tif
+24-04-21 12:24:08.062 : 24t.tif - PSNR: 32.39 dB; SSIM: 0.959; PSNRB: 32.14 dB.
+24-04-21 12:24:08.071 : predicted quality factor: 50
+24-04-21 12:24:08.093 : --36-->     25.tif
+24-04-21 12:24:08.466 : 25.tif - PSNR: 35.05 dB; SSIM: 0.959; PSNRB: 33.37 dB.
+24-04-21 12:24:08.466 : predicted quality factor: 50
+24-04-21 12:24:08.487 : --37-->    25t.tif
+24-04-21 12:24:08.861 : 25t.tif - PSNR: 35.23 dB; SSIM: 0.958; PSNRB: 33.35 dB.
+24-04-21 12:24:08.861 : predicted quality factor: 50
+24-04-21 12:24:08.891 : --38-->     26.tif
+24-04-21 12:24:09.366 : 26.tif - PSNR: 32.86 dB; SSIM: 0.957; PSNRB: 31.39 dB.
+24-04-21 12:24:09.366 : predicted quality factor: 50
+24-04-21 12:24:09.396 : --39-->    26t.tif
+24-04-21 12:24:09.859 : 26t.tif - PSNR: 32.59 dB; SSIM: 0.954; PSNRB: 31.08 dB.
+24-04-21 12:24:09.859 : predicted quality factor: 50
+24-04-21 12:24:09.880 : --40-->     27.tif
+24-04-21 12:24:10.313 : 27.tif - PSNR: 34.51 dB; SSIM: 0.962; PSNRB: 33.63 dB.
+24-04-21 12:24:10.313 : predicted quality factor: 50
+24-04-21 12:24:10.338 : --41-->    27t.tif
+24-04-21 12:24:10.768 : 27t.tif - PSNR: 34.44 dB; SSIM: 0.962; PSNRB: 33.41 dB.
+24-04-21 12:24:10.768 : predicted quality factor: 50
+24-04-21 12:24:10.778 : --42-->     28.tif
+24-04-21 12:24:11.272 : 28.tif - PSNR: 41.28 dB; SSIM: 0.971; PSNRB: 40.57 dB.
+24-04-21 12:24:11.272 : predicted quality factor: 50
+24-04-21 12:24:11.282 : --43-->    28t.tif
+24-04-21 12:24:11.756 : 28t.tif - PSNR: 40.99 dB; SSIM: 0.970; PSNRB: 40.67 dB.
+24-04-21 12:24:11.766 : predicted quality factor: 50
+24-04-21 12:24:11.786 : --44-->     29.tif
+24-04-21 12:24:12.210 : 29.tif - PSNR: 36.79 dB; SSIM: 0.963; PSNRB: 36.21 dB.
+24-04-21 12:24:12.210 : predicted quality factor: 50
+24-04-21 12:24:12.240 : --45-->    29t.tif
+24-04-21 12:24:12.667 : 29t.tif - PSNR: 36.96 dB; SSIM: 0.965; PSNRB: 35.76 dB.
+24-04-21 12:24:12.667 : predicted quality factor: 50
+24-04-21 12:24:12.677 : --46-->     2t.tif
+24-04-21 12:24:13.042 : 2t.tif - PSNR: 35.07 dB; SSIM: 0.965; PSNRB: 33.48 dB.
+24-04-21 12:24:13.045 : predicted quality factor: 50
+24-04-21 12:24:13.053 : --47-->      3.tif
+24-04-21 12:24:13.346 : 3.tif - PSNR: 34.25 dB; SSIM: 0.960; PSNRB: 34.03 dB.
+24-04-21 12:24:13.356 : predicted quality factor: 50
+24-04-21 12:24:13.377 : --48-->     30.tif
+24-04-21 12:24:13.730 : 30.tif - PSNR: 45.53 dB; SSIM: 0.988; PSNRB: 45.48 dB.
+24-04-21 12:24:13.740 : predicted quality factor: 50
+24-04-21 12:24:13.740 : --49-->    30t.tif
+24-04-21 12:24:14.123 : 30t.tif - PSNR: 45.32 dB; SSIM: 0.988; PSNRB: 43.32 dB.
+24-04-21 12:24:14.123 : predicted quality factor: 50
+24-04-21 12:24:14.134 : --50-->     31.tif
+24-04-21 12:24:14.495 : 31.tif - PSNR: 33.34 dB; SSIM: 0.932; PSNRB: 33.27 dB.
+24-04-21 12:24:14.495 : predicted quality factor: 50
+24-04-21 12:24:14.526 : --51-->    31t.tif
+24-04-21 12:24:14.879 : 31t.tif - PSNR: 33.08 dB; SSIM: 0.931; PSNRB: 32.89 dB.
+24-04-21 12:24:14.889 : predicted quality factor: 50
+24-04-21 12:24:14.910 : --52-->     32.tif
+24-04-21 12:24:15.510 : 32.tif - PSNR: 35.07 dB; SSIM: 0.956; PSNRB: 33.51 dB.
+24-04-21 12:24:15.510 : predicted quality factor: 50
+24-04-21 12:24:15.542 : --53-->    32t.tif
+24-04-21 12:24:16.146 : 32t.tif - PSNR: 34.90 dB; SSIM: 0.956; PSNRB: 33.36 dB.
+24-04-21 12:24:16.146 : predicted quality factor: 50
+24-04-21 12:24:16.169 : --54-->     33.tif
+24-04-21 12:24:16.647 : 33.tif - PSNR: 35.39 dB; SSIM: 0.960; PSNRB: 34.68 dB.
+24-04-21 12:24:16.653 : predicted quality factor: 50
+24-04-21 12:24:16.681 : --55-->    33t.tif
+24-04-21 12:24:17.162 : 33t.tif - PSNR: 34.63 dB; SSIM: 0.957; PSNRB: 33.63 dB.
+24-04-21 12:24:17.166 : predicted quality factor: 50
+24-04-21 12:24:17.203 : --56-->     34.tif
+24-04-21 12:24:17.819 : 34.tif - PSNR: 40.56 dB; SSIM: 0.972; PSNRB: 40.56 dB.
+24-04-21 12:24:17.819 : predicted quality factor: 50
+24-04-21 12:24:17.829 : --57-->    34t.tif
+24-04-21 12:24:18.412 : 34t.tif - PSNR: 40.51 dB; SSIM: 0.971; PSNRB: 40.51 dB.
+24-04-21 12:24:18.412 : predicted quality factor: 50
+24-04-21 12:24:18.434 : --58-->     35.tif
+24-04-21 12:24:18.810 : 35.tif - PSNR: 34.64 dB; SSIM: 0.940; PSNRB: 34.64 dB.
+24-04-21 12:24:18.811 : predicted quality factor: 50
+24-04-21 12:24:18.833 : --59-->    35t.tif
+24-04-21 12:24:19.209 : 35t.tif - PSNR: 34.23 dB; SSIM: 0.938; PSNRB: 34.23 dB.
+24-04-21 12:24:19.210 : predicted quality factor: 50
+24-04-21 12:24:19.224 : --60-->     36.tif
+24-04-21 12:24:19.745 : 36.tif - PSNR: 35.38 dB; SSIM: 0.917; PSNRB: 34.10 dB.
+24-04-21 12:24:19.745 : predicted quality factor: 50
+24-04-21 12:24:19.775 : --61-->    36t.tif
+24-04-21 12:24:20.293 : 36t.tif - PSNR: 35.34 dB; SSIM: 0.917; PSNRB: 34.64 dB.
+24-04-21 12:24:20.293 : predicted quality factor: 50
+24-04-21 12:24:20.331 : --62-->     37.tif
+24-04-21 12:24:20.842 : 37.tif - PSNR: 33.60 dB; SSIM: 0.916; PSNRB: 32.75 dB.
+24-04-21 12:24:20.842 : predicted quality factor: 50
+24-04-21 12:24:20.862 : --63-->    37t.tif
+24-04-21 12:24:21.379 : 37t.tif - PSNR: 33.18 dB; SSIM: 0.918; PSNRB: 32.21 dB.
+24-04-21 12:24:21.379 : predicted quality factor: 50
+24-04-21 12:24:21.399 : --64-->     38.tif
+24-04-21 12:24:21.700 : 38.tif - PSNR: 34.14 dB; SSIM: 0.964; PSNRB: 34.14 dB.
+24-04-21 12:24:21.700 : predicted quality factor: 50
+24-04-21 12:24:21.714 : --65-->    38t.tif
+24-04-21 12:24:21.988 : 38t.tif - PSNR: 34.19 dB; SSIM: 0.962; PSNRB: 34.19 dB.
+24-04-21 12:24:21.988 : predicted quality factor: 50
+24-04-21 12:24:22.008 : --66-->     39.tif
+24-04-21 12:24:22.373 : 39.tif - PSNR: 36.53 dB; SSIM: 0.968; PSNRB: 36.27 dB.
+24-04-21 12:24:22.373 : predicted quality factor: 50
+24-04-21 12:24:22.404 : --67-->    39t.tif
+24-04-21 12:24:22.859 : 39t.tif - PSNR: 36.34 dB; SSIM: 0.966; PSNRB: 36.34 dB.
+24-04-21 12:24:22.859 : predicted quality factor: 50
+24-04-21 12:24:22.899 : --68-->     3t.tif
+24-04-21 12:24:23.305 : 3t.tif - PSNR: 34.69 dB; SSIM: 0.960; PSNRB: 34.56 dB.
+24-04-21 12:24:23.307 : predicted quality factor: 50
+24-04-21 12:24:23.321 : --69-->      4.tif
+24-04-21 12:24:23.926 : 4.tif - PSNR: 33.48 dB; SSIM: 0.950; PSNRB: 32.74 dB.
+24-04-21 12:24:23.927 : predicted quality factor: 50
+24-04-21 12:24:23.959 : --70-->     40.tif
+24-04-21 12:24:24.815 : 40.tif - PSNR: 37.49 dB; SSIM: 0.954; PSNRB: 34.36 dB.
+24-04-21 12:24:24.817 : predicted quality factor: 50
+24-04-21 12:24:24.856 : --71-->    40t.tif
+24-04-21 12:24:25.403 : 40t.tif - PSNR: 37.46 dB; SSIM: 0.954; PSNRB: 34.65 dB.
+24-04-21 12:24:25.403 : predicted quality factor: 50
+24-04-21 12:24:25.483 : --72-->     41.tif
+24-04-21 12:24:26.115 : 41.tif - PSNR: 37.29 dB; SSIM: 0.962; PSNRB: 34.69 dB.
+24-04-21 12:24:26.115 : predicted quality factor: 50
+24-04-21 12:24:26.135 : --73-->    41t.tif
+24-04-21 12:24:26.758 : 41t.tif - PSNR: 37.32 dB; SSIM: 0.962; PSNRB: 34.07 dB.
+24-04-21 12:24:26.758 : predicted quality factor: 50
+24-04-21 12:24:26.778 : --74-->     42.tif
+24-04-21 12:24:27.252 : 42.tif - PSNR: 34.50 dB; SSIM: 0.906; PSNRB: 34.03 dB.
+24-04-21 12:24:27.255 : predicted quality factor: 50
+24-04-21 12:24:27.284 : --75-->    42t.tif
+24-04-21 12:24:27.920 : 42t.tif - PSNR: 34.26 dB; SSIM: 0.905; PSNRB: 33.66 dB.
+24-04-21 12:24:27.923 : predicted quality factor: 50
+24-04-21 12:24:27.958 : --76-->     43.tif
+24-04-21 12:24:28.429 : 43.tif - PSNR: 31.72 dB; SSIM: 0.903; PSNRB: 31.62 dB.
+24-04-21 12:24:28.431 : predicted quality factor: 50
+24-04-21 12:24:28.459 : --77-->    43t.tif
+24-04-21 12:24:28.918 : 43t.tif - PSNR: 31.99 dB; SSIM: 0.909; PSNRB: 31.99 dB.
+24-04-21 12:24:28.920 : predicted quality factor: 50
+24-04-21 12:24:28.940 : --78-->     44.tif
+24-04-21 12:24:29.552 : 44.tif - PSNR: 33.99 dB; SSIM: 0.909; PSNRB: 33.37 dB.
+24-04-21 12:24:29.552 : predicted quality factor: 50
+24-04-21 12:24:29.593 : --79-->    44t.tif
+24-04-21 12:24:30.181 : 44t.tif - PSNR: 33.97 dB; SSIM: 0.910; PSNRB: 33.27 dB.
+24-04-21 12:24:30.183 : predicted quality factor: 50
+24-04-21 12:24:30.212 : --80-->     45.tif
+24-04-21 12:24:30.825 : 45.tif - PSNR: 37.91 dB; SSIM: 0.953; PSNRB: 37.91 dB.
+24-04-21 12:24:30.825 : predicted quality factor: 50
+24-04-21 12:24:30.865 : --81-->    45t.tif
+24-04-21 12:24:31.492 : 45t.tif - PSNR: 37.64 dB; SSIM: 0.952; PSNRB: 37.64 dB.
+24-04-21 12:24:31.492 : predicted quality factor: 50
+24-04-21 12:24:31.527 : --82-->     46.tif
+24-04-21 12:24:31.905 : 46.tif - PSNR: 41.12 dB; SSIM: 0.982; PSNRB: 41.12 dB.
+24-04-21 12:24:31.907 : predicted quality factor: 50
+24-04-21 12:24:31.930 : --83-->    46t.tif
+24-04-21 12:24:32.325 : 46t.tif - PSNR: 40.97 dB; SSIM: 0.982; PSNRB: 40.97 dB.
+24-04-21 12:24:32.325 : predicted quality factor: 50
+24-04-21 12:24:32.360 : --84-->     47.tif
+24-04-21 12:24:32.896 : 47.tif - PSNR: 41.32 dB; SSIM: 0.964; PSNRB: 40.15 dB.
+24-04-21 12:24:32.898 : predicted quality factor: 50
+24-04-21 12:24:32.917 : --85-->    47t.tif
+24-04-21 12:24:33.425 : 47t.tif - PSNR: 40.99 dB; SSIM: 0.964; PSNRB: 40.82 dB.
+24-04-21 12:24:33.427 : predicted quality factor: 50
+24-04-21 12:24:33.456 : --86-->     48.tif
+24-04-21 12:24:34.149 : 48.tif - PSNR: 35.41 dB; SSIM: 0.956; PSNRB: 33.07 dB.
+24-04-21 12:24:34.151 : predicted quality factor: 50
+24-04-21 12:24:34.178 : --87-->    48t.tif
+24-04-21 12:24:34.845 : 48t.tif - PSNR: 35.26 dB; SSIM: 0.955; PSNRB: 32.92 dB.
+24-04-21 12:24:34.847 : predicted quality factor: 50
+24-04-21 12:24:34.879 : --88-->     49.tif
+24-04-21 12:24:35.293 : 49.tif - PSNR: 40.40 dB; SSIM: 0.975; PSNRB: 39.11 dB.
+24-04-21 12:24:35.295 : predicted quality factor: 50
+24-04-21 12:24:35.311 : --89-->    49t.tif
+24-04-21 12:24:35.705 : 49t.tif - PSNR: 40.38 dB; SSIM: 0.975; PSNRB: 39.26 dB.
+24-04-21 12:24:35.707 : predicted quality factor: 50
+24-04-21 12:24:35.723 : --90-->     4t.tif
+24-04-21 12:24:36.269 : 4t.tif - PSNR: 33.50 dB; SSIM: 0.951; PSNRB: 32.57 dB.
+24-04-21 12:24:36.269 : predicted quality factor: 50
+24-04-21 12:24:36.299 : --91-->      5.tif
+24-04-21 12:24:36.652 : 5.tif - PSNR: 35.47 dB; SSIM: 0.965; PSNRB: 35.47 dB.
+24-04-21 12:24:36.653 : predicted quality factor: 50
+24-04-21 12:24:36.670 : --92-->     50.tif
+24-04-21 12:24:37.087 : 50.tif - PSNR: 37.37 dB; SSIM: 0.944; PSNRB: 37.19 dB.
+24-04-21 12:24:37.087 : predicted quality factor: 50
+24-04-21 12:24:37.117 : --93-->    50t.tif
+24-04-21 12:24:37.529 : 50t.tif - PSNR: 37.15 dB; SSIM: 0.943; PSNRB: 36.86 dB.
+24-04-21 12:24:37.529 : predicted quality factor: 50
+24-04-21 12:24:37.548 : --94-->     51.tif
+24-04-21 12:24:37.939 : 51.tif - PSNR: 35.89 dB; SSIM: 0.975; PSNRB: 31.45 dB.
+24-04-21 12:24:37.949 : predicted quality factor: 50
+24-04-21 12:24:37.977 : --95-->    51t.tif
+24-04-21 12:24:38.350 : 51t.tif - PSNR: 35.56 dB; SSIM: 0.974; PSNRB: 34.75 dB.
+24-04-21 12:24:38.350 : predicted quality factor: 50
+24-04-21 12:24:38.370 : --96-->     52.tif
+24-04-21 12:24:38.580 : 52.tif - PSNR: 30.61 dB; SSIM: 0.938; PSNRB: 29.41 dB.
+24-04-21 12:24:38.580 : predicted quality factor: 50
+24-04-21 12:24:38.590 : --97-->    52t.tif
+24-04-21 12:24:38.810 : 52t.tif - PSNR: 30.79 dB; SSIM: 0.938; PSNRB: 29.37 dB.
+24-04-21 12:24:38.821 : predicted quality factor: 50
+24-04-21 12:24:38.831 : --98-->     53.tif
+24-04-21 12:24:39.323 : 53.tif - PSNR: 36.42 dB; SSIM: 0.969; PSNRB: 33.84 dB.
+24-04-21 12:24:39.333 : predicted quality factor: 50
+24-04-21 12:24:39.354 : --99-->    53t.tif
+24-04-21 12:24:39.840 : 53t.tif - PSNR: 36.38 dB; SSIM: 0.968; PSNRB: 33.61 dB.
+24-04-21 12:24:39.840 : predicted quality factor: 50
+24-04-21 12:24:39.859 : -100-->     54.tif
+24-04-21 12:24:40.202 : 54.tif - PSNR: 36.54 dB; SSIM: 0.989; PSNRB: 36.54 dB.
+24-04-21 12:24:40.204 : predicted quality factor: 50
+24-04-21 12:24:40.232 : -101-->    54t.tif
+24-04-21 12:24:40.558 : 54t.tif - PSNR: 36.58 dB; SSIM: 0.989; PSNRB: 36.58 dB.
+24-04-21 12:24:40.561 : predicted quality factor: 50
+24-04-21 12:24:40.587 : -102-->     55.tif
+24-04-21 12:24:40.832 : 55.tif - PSNR: 34.17 dB; SSIM: 0.984; PSNRB: 34.17 dB.
+24-04-21 12:24:40.834 : predicted quality factor: 50
+24-04-21 12:24:40.848 : -103-->    55t.tif
+24-04-21 12:24:41.059 : 55t.tif - PSNR: 34.31 dB; SSIM: 0.984; PSNRB: 30.64 dB.
+24-04-21 12:24:41.059 : predicted quality factor: 50
+24-04-21 12:24:41.070 : -104-->     56.tif
+24-04-21 12:24:41.420 : 56.tif - PSNR: 37.81 dB; SSIM: 0.957; PSNRB: 36.53 dB.
+24-04-21 12:24:41.420 : predicted quality factor: 50
+24-04-21 12:24:41.441 : -105-->    56t.tif
+24-04-21 12:24:41.764 : 56t.tif - PSNR: 37.69 dB; SSIM: 0.957; PSNRB: 36.17 dB.
+24-04-21 12:24:41.766 : predicted quality factor: 50
+24-04-21 12:24:41.784 : -106-->     57.tif
+24-04-21 12:24:42.338 : 57.tif - PSNR: 36.61 dB; SSIM: 0.970; PSNRB: 36.61 dB.
+24-04-21 12:24:42.338 : predicted quality factor: 50
+24-04-21 12:24:42.359 : -107-->    57t.tif
+24-04-21 12:24:42.919 : 57t.tif - PSNR: 36.61 dB; SSIM: 0.970; PSNRB: 36.61 dB.
+24-04-21 12:24:42.921 : predicted quality factor: 50
+24-04-21 12:24:42.955 : -108-->     58.tif
+24-04-21 12:24:43.638 : 58.tif - PSNR: 38.08 dB; SSIM: 0.945; PSNRB: 37.25 dB.
+24-04-21 12:24:43.638 : predicted quality factor: 50
+24-04-21 12:24:43.682 : -109-->    58t.tif
+24-04-21 12:24:44.296 : 58t.tif - PSNR: 38.03 dB; SSIM: 0.945; PSNRB: 37.16 dB.
+24-04-21 12:24:44.306 : predicted quality factor: 50
+24-04-21 12:24:44.317 : -110-->     59.tif
+24-04-21 12:24:44.990 : 59.tif - PSNR: 35.80 dB; SSIM: 0.966; PSNRB: 35.80 dB.
+24-04-21 12:24:44.990 : predicted quality factor: 50
+24-04-21 12:24:45.011 : -111-->    59t.tif
+24-04-21 12:24:45.681 : 59t.tif - PSNR: 36.12 dB; SSIM: 0.967; PSNRB: 36.12 dB.
+24-04-21 12:24:45.681 : predicted quality factor: 50
+24-04-21 12:24:45.711 : -112-->     5t.tif
+24-04-21 12:24:46.039 : 5t.tif - PSNR: 35.33 dB; SSIM: 0.964; PSNRB: 35.33 dB.
+24-04-21 12:24:46.039 : predicted quality factor: 50
+24-04-21 12:24:46.062 : -113-->      6.tif
+24-04-21 12:24:46.448 : 6.tif - PSNR: 34.85 dB; SSIM: 0.963; PSNRB: 34.71 dB.
+24-04-21 12:24:46.448 : predicted quality factor: 50
+24-04-21 12:24:46.469 : -114-->     60.tif
+24-04-21 12:24:46.942 : 60.tif - PSNR: 36.22 dB; SSIM: 0.972; PSNRB: 36.01 dB.
+24-04-21 12:24:46.944 : predicted quality factor: 50
+24-04-21 12:24:46.964 : -115-->    60t.tif
+24-04-21 12:24:47.422 : 60t.tif - PSNR: 36.16 dB; SSIM: 0.972; PSNRB: 35.97 dB.
+24-04-21 12:24:47.422 : predicted quality factor: 50
+24-04-21 12:24:47.442 : -116-->     61.tif
+24-04-21 12:24:48.156 : 61.tif - PSNR: 38.91 dB; SSIM: 0.966; PSNRB: 38.91 dB.
+24-04-21 12:24:48.156 : predicted quality factor: 50
+24-04-21 12:24:48.176 : -117-->    61t.tif
+24-04-21 12:24:48.885 : 61t.tif - PSNR: 38.85 dB; SSIM: 0.965; PSNRB: 38.85 dB.
+24-04-21 12:24:48.893 : predicted quality factor: 50
+24-04-21 12:24:48.917 : -118-->     62.tif
+24-04-21 12:24:49.428 : 62.tif - PSNR: 39.05 dB; SSIM: 0.964; PSNRB: 37.85 dB.
+24-04-21 12:24:49.430 : predicted quality factor: 50
+24-04-21 12:24:49.453 : -119-->    62t.tif
+24-04-21 12:24:49.950 : 62t.tif - PSNR: 38.96 dB; SSIM: 0.963; PSNRB: 37.77 dB.
+24-04-21 12:24:49.952 : predicted quality factor: 50
+24-04-21 12:24:49.974 : -120-->     63.tif
+24-04-21 12:24:50.620 : 63.tif - PSNR: 33.24 dB; SSIM: 0.947; PSNRB: 32.21 dB.
+24-04-21 12:24:50.622 : predicted quality factor: 50
+24-04-21 12:24:50.653 : -121-->    63t.tif
+24-04-21 12:24:51.272 : 63t.tif - PSNR: 33.33 dB; SSIM: 0.946; PSNRB: 32.50 dB.
+24-04-21 12:24:51.275 : predicted quality factor: 50
+24-04-21 12:24:51.306 : -122-->     64.tif
+24-04-21 12:24:51.647 : 64.tif - PSNR: 29.62 dB; SSIM: 0.930; PSNRB: 29.62 dB.
+24-04-21 12:24:51.649 : predicted quality factor: 50
+24-04-21 12:24:51.662 : -123-->    64t.tif
+24-04-21 12:24:51.966 : 64t.tif - PSNR: 29.69 dB; SSIM: 0.929; PSNRB: 29.69 dB.
+24-04-21 12:24:51.969 : predicted quality factor: 50
+24-04-21 12:24:51.984 : -124-->     65.tif
+24-04-21 12:24:52.803 : 65.tif - PSNR: 36.84 dB; SSIM: 0.967; PSNRB: 35.74 dB.
+24-04-21 12:24:52.805 : predicted quality factor: 50
+24-04-21 12:24:52.851 : -125-->    65t.tif
+24-04-21 12:24:53.640 : 65t.tif - PSNR: 36.79 dB; SSIM: 0.966; PSNRB: 35.67 dB.
+24-04-21 12:24:53.640 : predicted quality factor: 50
+24-04-21 12:24:53.675 : -126-->     66.tif
+24-04-21 12:24:54.212 : 66.tif - PSNR: 38.04 dB; SSIM: 0.975; PSNRB: 38.04 dB.
+24-04-21 12:24:54.212 : predicted quality factor: 50
+24-04-21 12:24:54.232 : -127-->    66t.tif
+24-04-21 12:24:54.763 : 66t.tif - PSNR: 37.56 dB; SSIM: 0.974; PSNRB: 37.05 dB.
+24-04-21 12:24:54.763 : predicted quality factor: 50
+24-04-21 12:24:54.783 : -128-->     67.tif
+24-04-21 12:24:55.344 : 67.tif - PSNR: 33.54 dB; SSIM: 0.958; PSNRB: 33.06 dB.
+24-04-21 12:24:55.344 : predicted quality factor: 50
+24-04-21 12:24:55.374 : -129-->    67t.tif
+24-04-21 12:24:55.928 : 67t.tif - PSNR: 33.40 dB; SSIM: 0.962; PSNRB: 32.97 dB.
+24-04-21 12:24:55.928 : predicted quality factor: 50
+24-04-21 12:24:55.948 : -130-->     68.tif
+24-04-21 12:24:56.520 : 68.tif - PSNR: 35.27 dB; SSIM: 0.961; PSNRB: 32.86 dB.
+24-04-21 12:24:56.520 : predicted quality factor: 50
+24-04-21 12:24:56.550 : -131-->    68t.tif
+24-04-21 12:24:57.102 : 68t.tif - PSNR: 35.15 dB; SSIM: 0.961; PSNRB: 33.08 dB.
+24-04-21 12:24:57.102 : predicted quality factor: 50
+24-04-21 12:24:57.132 : -132-->     69.tif
+24-04-21 12:24:57.482 : 69.tif - PSNR: 33.31 dB; SSIM: 0.956; PSNRB: 32.37 dB.
+24-04-21 12:24:57.482 : predicted quality factor: 50
+24-04-21 12:24:57.493 : -133-->    69t.tif
+24-04-21 12:24:57.814 : 69t.tif - PSNR: 33.52 dB; SSIM: 0.954; PSNRB: 31.13 dB.
+24-04-21 12:24:57.814 : predicted quality factor: 50
+24-04-21 12:24:57.824 : -134-->     6t.tif
+24-04-21 12:24:58.196 : 6t.tif - PSNR: 35.44 dB; SSIM: 0.964; PSNRB: 35.26 dB.
+24-04-21 12:24:58.196 : predicted quality factor: 50
+24-04-21 12:24:58.216 : -135-->      7.tif
+24-04-21 12:24:58.678 : 7.tif - PSNR: 37.11 dB; SSIM: 0.917; PSNRB: 36.82 dB.
+24-04-21 12:24:58.678 : predicted quality factor: 50
+24-04-21 12:24:58.698 : -136-->     70.tif
+24-04-21 12:24:59.331 : 70.tif - PSNR: 34.74 dB; SSIM: 0.964; PSNRB: 34.74 dB.
+24-04-21 12:24:59.331 : predicted quality factor: 50
+24-04-21 12:24:59.361 : -137-->    70t.tif
+24-04-21 12:24:59.983 : 70t.tif - PSNR: 34.71 dB; SSIM: 0.964; PSNRB: 34.71 dB.
+24-04-21 12:24:59.983 : predicted quality factor: 50
+24-04-21 12:25:00.013 : -138-->     71.tif
+24-04-21 12:25:00.587 : 71.tif - PSNR: 33.98 dB; SSIM: 0.951; PSNRB: 32.95 dB.
+24-04-21 12:25:00.598 : predicted quality factor: 50
+24-04-21 12:25:00.618 : -139-->    71t.tif
+24-04-21 12:25:01.197 : 71t.tif - PSNR: 34.01 dB; SSIM: 0.952; PSNRB: 32.82 dB.
+24-04-21 12:25:01.198 : predicted quality factor: 50
+24-04-21 12:25:01.228 : -140-->     72.tif
+24-04-21 12:25:01.834 : 72.tif - PSNR: 37.03 dB; SSIM: 0.968; PSNRB: 37.03 dB.
+24-04-21 12:25:01.834 : predicted quality factor: 50
+24-04-21 12:25:01.854 : -141-->    72t.tif
+24-04-21 12:25:02.450 : 72t.tif - PSNR: 37.10 dB; SSIM: 0.969; PSNRB: 37.10 dB.
+24-04-21 12:25:02.450 : predicted quality factor: 50
+24-04-21 12:25:02.480 : -142-->     73.tif
+24-04-21 12:25:02.831 : 73.tif - PSNR: 41.04 dB; SSIM: 0.984; PSNRB: 41.04 dB.
+24-04-21 12:25:02.831 : predicted quality factor: 50
+24-04-21 12:25:02.851 : -143-->    73t.tif
+24-04-21 12:25:03.174 : 73t.tif - PSNR: 40.96 dB; SSIM: 0.984; PSNRB: 38.08 dB.
+24-04-21 12:25:03.174 : predicted quality factor: 50
+24-04-21 12:25:03.194 : -144-->     74.tif
+24-04-21 12:25:03.931 : 74.tif - PSNR: 36.24 dB; SSIM: 0.961; PSNRB: 35.12 dB.
+24-04-21 12:25:03.931 : predicted quality factor: 50
+24-04-21 12:25:03.971 : -145-->    74t.tif
+24-04-21 12:25:04.908 : 74t.tif - PSNR: 36.07 dB; SSIM: 0.961; PSNRB: 34.82 dB.
+24-04-21 12:25:04.917 : predicted quality factor: 50
+24-04-21 12:25:04.947 : -146-->     75.tif
+24-04-21 12:25:05.610 : 75.tif - PSNR: 34.20 dB; SSIM: 0.942; PSNRB: 33.50 dB.
+24-04-21 12:25:05.620 : predicted quality factor: 50
+24-04-21 12:25:05.640 : -147-->    75t.tif
+24-04-21 12:25:06.114 : 75t.tif - PSNR: 33.80 dB; SSIM: 0.940; PSNRB: 33.29 dB.
+24-04-21 12:25:06.114 : predicted quality factor: 50
+24-04-21 12:25:06.141 : -148-->     76.tif
+24-04-21 12:25:06.621 : 76.tif - PSNR: 36.04 dB; SSIM: 0.970; PSNRB: 35.35 dB.
+24-04-21 12:25:06.631 : predicted quality factor: 50
+24-04-21 12:25:06.661 : -149-->    76t.tif
+24-04-21 12:25:07.183 : 76t.tif - PSNR: 35.91 dB; SSIM: 0.970; PSNRB: 35.91 dB.
+24-04-21 12:25:07.183 : predicted quality factor: 50
+24-04-21 12:25:07.203 : -150-->     77.tif
+24-04-21 12:25:07.654 : 77.tif - PSNR: 35.47 dB; SSIM: 0.959; PSNRB: 33.78 dB.
+24-04-21 12:25:07.654 : predicted quality factor: 50
+24-04-21 12:25:07.684 : -151-->    77t.tif
+24-04-21 12:25:08.145 : 77t.tif - PSNR: 35.40 dB; SSIM: 0.959; PSNRB: 34.04 dB.
+24-04-21 12:25:08.155 : predicted quality factor: 50
+24-04-21 12:25:08.176 : -152-->     78.tif
+24-04-21 12:25:08.530 : 78.tif - PSNR: 35.01 dB; SSIM: 0.917; PSNRB: 35.01 dB.
+24-04-21 12:25:08.530 : predicted quality factor: 50
+24-04-21 12:25:08.552 : -153-->    78t.tif
+24-04-21 12:25:08.901 : 78t.tif - PSNR: 34.92 dB; SSIM: 0.917; PSNRB: 34.92 dB.
+24-04-21 12:25:08.902 : predicted quality factor: 50
+24-04-21 12:25:08.918 : -154-->     79.tif
+24-04-21 12:25:09.790 : 79.tif - PSNR: 32.79 dB; SSIM: 0.964; PSNRB: 32.13 dB.
+24-04-21 12:25:09.791 : predicted quality factor: 50
+24-04-21 12:25:09.829 : -155-->    79t.tif
+24-04-21 12:25:10.617 : 79t.tif - PSNR: 32.55 dB; SSIM: 0.963; PSNRB: 31.93 dB.
+24-04-21 12:25:10.617 : predicted quality factor: 50
+24-04-21 12:25:10.658 : -156-->     7t.tif
+24-04-21 12:25:11.120 : 7t.tif - PSNR: 37.09 dB; SSIM: 0.917; PSNRB: 36.85 dB.
+24-04-21 12:25:11.130 : predicted quality factor: 50
+24-04-21 12:25:11.150 : -157-->      8.tif
+24-04-21 12:25:11.653 : 8.tif - PSNR: 36.80 dB; SSIM: 0.967; PSNRB: 36.36 dB.
+24-04-21 12:25:11.653 : predicted quality factor: 50
+24-04-21 12:25:11.673 : -158-->     80.tif
+24-04-21 12:25:11.944 : 80.tif - PSNR: 35.98 dB; SSIM: 0.973; PSNRB: 31.31 dB.
+24-04-21 12:25:11.944 : predicted quality factor: 50
+24-04-21 12:25:11.948 : -159-->    80t.tif
+24-04-21 12:25:12.089 : 80t.tif - PSNR: 35.30 dB; SSIM: 0.974; PSNRB: 31.05 dB.
+24-04-21 12:25:12.089 : predicted quality factor: 50
+24-04-21 12:25:12.099 : -160-->     81.tif
+24-04-21 12:25:12.551 : 81.tif - PSNR: 33.15 dB; SSIM: 0.950; PSNRB: 32.08 dB.
+24-04-21 12:25:12.551 : predicted quality factor: 50
+24-04-21 12:25:12.574 : -161-->    81t.tif
+24-04-21 12:25:13.002 : 81t.tif - PSNR: 33.01 dB; SSIM: 0.948; PSNRB: 31.79 dB.
+24-04-21 12:25:13.002 : predicted quality factor: 50
+24-04-21 12:25:13.012 : -162-->     82.tif
+24-04-21 12:25:13.795 : 82.tif - PSNR: 35.63 dB; SSIM: 0.953; PSNRB: 34.66 dB.
+24-04-21 12:25:13.795 : predicted quality factor: 50
+24-04-21 12:25:13.825 : -163-->    82t.tif
+24-04-21 12:25:14.459 : 82t.tif - PSNR: 35.64 dB; SSIM: 0.951; PSNRB: 34.89 dB.
+24-04-21 12:25:14.459 : predicted quality factor: 50
+24-04-21 12:25:14.489 : -164-->     83.tif
+24-04-21 12:25:15.029 : 83.tif - PSNR: 36.32 dB; SSIM: 0.959; PSNRB: 36.32 dB.
+24-04-21 12:25:15.031 : predicted quality factor: 50
+24-04-21 12:25:15.051 : -165-->    83t.tif
+24-04-21 12:25:15.563 : 83t.tif - PSNR: 35.82 dB; SSIM: 0.957; PSNRB: 35.82 dB.
+24-04-21 12:25:15.573 : predicted quality factor: 50
+24-04-21 12:25:15.594 : -166-->     84.tif
+24-04-21 12:25:16.105 : 84.tif - PSNR: 34.07 dB; SSIM: 0.928; PSNRB: 32.98 dB.
+24-04-21 12:25:16.105 : predicted quality factor: 50
+24-04-21 12:25:16.135 : -167-->    84t.tif
+24-04-21 12:25:16.637 : 84t.tif - PSNR: 33.73 dB; SSIM: 0.926; PSNRB: 32.43 dB.
+24-04-21 12:25:16.637 : predicted quality factor: 50
+24-04-21 12:25:16.657 : -168-->     85.tif
+24-04-21 12:25:17.179 : 85.tif - PSNR: 32.13 dB; SSIM: 0.946; PSNRB: 31.32 dB.
+24-04-21 12:25:17.179 : predicted quality factor: 50
+24-04-21 12:25:17.209 : -169-->    85t.tif
+24-04-21 12:25:17.741 : 85t.tif - PSNR: 32.08 dB; SSIM: 0.946; PSNRB: 31.49 dB.
+24-04-21 12:25:17.741 : predicted quality factor: 50
+24-04-21 12:25:17.771 : -170-->     86.tif
+24-04-21 12:25:18.495 : 86.tif - PSNR: 35.61 dB; SSIM: 0.954; PSNRB: 35.36 dB.
+24-04-21 12:25:18.501 : predicted quality factor: 50
+24-04-21 12:25:18.525 : -171-->    86t.tif
+24-04-21 12:25:19.206 : 86t.tif - PSNR: 35.48 dB; SSIM: 0.953; PSNRB: 34.93 dB.
+24-04-21 12:25:19.206 : predicted quality factor: 50
+24-04-21 12:25:19.236 : -172-->     87.tif
+24-04-21 12:25:19.828 : 87.tif - PSNR: 34.89 dB; SSIM: 0.966; PSNRB: 34.86 dB.
+24-04-21 12:25:19.828 : predicted quality factor: 50
+24-04-21 12:25:19.869 : -173-->    87t.tif
+24-04-21 12:25:20.411 : 87t.tif - PSNR: 34.46 dB; SSIM: 0.964; PSNRB: 34.30 dB.
+24-04-21 12:25:20.411 : predicted quality factor: 50
+24-04-21 12:25:20.441 : -174-->     88.tif
+24-04-21 12:25:21.063 : 88.tif - PSNR: 34.78 dB; SSIM: 0.965; PSNRB: 34.28 dB.
+24-04-21 12:25:21.072 : predicted quality factor: 50
+24-04-21 12:25:21.083 : -175-->    88t.tif
+24-04-21 12:25:21.705 : 88t.tif - PSNR: 35.02 dB; SSIM: 0.966; PSNRB: 34.60 dB.
+24-04-21 12:25:21.705 : predicted quality factor: 50
+24-04-21 12:25:21.735 : -176-->     89.tif
+24-04-21 12:25:22.558 : 89.tif - PSNR: 37.54 dB; SSIM: 0.972; PSNRB: 37.54 dB.
+24-04-21 12:25:22.558 : predicted quality factor: 50
+24-04-21 12:25:22.588 : -177-->    89t.tif
+24-04-21 12:25:23.411 : 89t.tif - PSNR: 37.62 dB; SSIM: 0.972; PSNRB: 37.62 dB.
+24-04-21 12:25:23.411 : predicted quality factor: 50
+24-04-21 12:25:23.442 : -178-->     8t.tif
+24-04-21 12:25:23.914 : 8t.tif - PSNR: 36.74 dB; SSIM: 0.966; PSNRB: 36.58 dB.
+24-04-21 12:25:23.914 : predicted quality factor: 50
+24-04-21 12:25:23.924 : -179-->      9.tif
+24-04-21 12:25:24.737 : 9.tif - PSNR: 37.70 dB; SSIM: 0.963; PSNRB: 36.08 dB.
+24-04-21 12:25:24.737 : predicted quality factor: 50
+24-04-21 12:25:24.767 : -180-->     90.tif
+24-04-21 12:25:25.450 : 90.tif - PSNR: 31.66 dB; SSIM: 0.937; PSNRB: 30.98 dB.
+24-04-21 12:25:25.450 : predicted quality factor: 50
+24-04-21 12:25:25.470 : -181-->    90t.tif
+24-04-21 12:25:26.141 : 90t.tif - PSNR: 31.90 dB; SSIM: 0.938; PSNRB: 31.14 dB.
+24-04-21 12:25:26.141 : predicted quality factor: 50
+24-04-21 12:25:26.171 : -182-->     91.tif
+24-04-21 12:25:26.758 : 91.tif - PSNR: 32.90 dB; SSIM: 0.945; PSNRB: 32.05 dB.
+24-04-21 12:25:26.758 : predicted quality factor: 50
+24-04-21 12:25:26.796 : -183-->    91t.tif
+24-04-21 12:25:27.429 : 91t.tif - PSNR: 32.85 dB; SSIM: 0.944; PSNRB: 31.98 dB.
+24-04-21 12:25:27.438 : predicted quality factor: 50
+24-04-21 12:25:27.458 : -184-->     92.tif
+24-04-21 12:25:27.896 : 92.tif - PSNR: 31.06 dB; SSIM: 0.949; PSNRB: 30.27 dB.
+24-04-21 12:25:27.897 : predicted quality factor: 50
+24-04-21 12:25:27.917 : -185-->    92t.tif
+24-04-21 12:25:28.291 : 92t.tif - PSNR: 31.51 dB; SSIM: 0.949; PSNRB: 30.77 dB.
+24-04-21 12:25:28.292 : predicted quality factor: 50
+24-04-21 12:25:28.312 : -186-->     93.tif
+24-04-21 12:25:28.799 : 93.tif - PSNR: 34.29 dB; SSIM: 0.925; PSNRB: 34.20 dB.
+24-04-21 12:25:28.800 : predicted quality factor: 50
+24-04-21 12:25:28.820 : -187-->    93t.tif
+24-04-21 12:25:29.214 : 93t.tif - PSNR: 34.01 dB; SSIM: 0.927; PSNRB: 33.82 dB.
+24-04-21 12:25:29.215 : predicted quality factor: 50
+24-04-21 12:25:29.235 : -188-->     94.tif
+24-04-21 12:25:30.018 : 94.tif - PSNR: 31.79 dB; SSIM: 0.945; PSNRB: 30.51 dB.
+24-04-21 12:25:30.019 : predicted quality factor: 50
+24-04-21 12:25:30.047 : -189-->    94t.tif
+24-04-21 12:25:30.721 : 94t.tif - PSNR: 31.31 dB; SSIM: 0.947; PSNRB: 29.99 dB.
+24-04-21 12:25:30.722 : predicted quality factor: 50
+24-04-21 12:25:30.755 : -190-->     95.tif
+24-04-21 12:25:31.355 : 95.tif - PSNR: 38.15 dB; SSIM: 0.972; PSNRB: 38.15 dB.
+24-04-21 12:25:31.355 : predicted quality factor: 50
+24-04-21 12:25:31.371 : -191-->    95t.tif
+24-04-21 12:25:31.981 : 95t.tif - PSNR: 38.10 dB; SSIM: 0.972; PSNRB: 38.10 dB.
+24-04-21 12:25:31.981 : predicted quality factor: 50
+24-04-21 12:25:32.015 : -192-->     96.tif
+24-04-21 12:25:32.490 : 96.tif - PSNR: 35.58 dB; SSIM: 0.951; PSNRB: 33.24 dB.
+24-04-21 12:25:32.490 : predicted quality factor: 50
+24-04-21 12:25:32.520 : -193-->    96t.tif
+24-04-21 12:25:32.967 : 96t.tif - PSNR: 35.69 dB; SSIM: 0.954; PSNRB: 33.53 dB.
+24-04-21 12:25:32.969 : predicted quality factor: 50
+24-04-21 12:25:32.993 : -194-->     97.tif
+24-04-21 12:25:33.363 : 97.tif - PSNR: 33.09 dB; SSIM: 0.956; PSNRB: 32.93 dB.
+24-04-21 12:25:33.363 : predicted quality factor: 50
+24-04-21 12:25:33.384 : -195-->    97t.tif
+24-04-21 12:25:33.754 : 97t.tif - PSNR: 33.21 dB; SSIM: 0.954; PSNRB: 32.31 dB.
+24-04-21 12:25:33.761 : predicted quality factor: 50
+24-04-21 12:25:33.778 : -196-->     98.tif
+24-04-21 12:25:34.290 : 98.tif - PSNR: 34.69 dB; SSIM: 0.903; PSNRB: 34.69 dB.
+24-04-21 12:25:34.290 : predicted quality factor: 50
+24-04-21 12:25:34.310 : -197-->    98t.tif
+24-04-21 12:25:34.821 : 98t.tif - PSNR: 34.69 dB; SSIM: 0.903; PSNRB: 34.69 dB.
+24-04-21 12:25:34.821 : predicted quality factor: 50
+24-04-21 12:25:34.852 : -198-->     99.tif
+24-04-21 12:25:35.243 : 99.tif - PSNR: 34.99 dB; SSIM: 0.960; PSNRB: 34.63 dB.
+24-04-21 12:25:35.254 : predicted quality factor: 50
+24-04-21 12:25:35.274 : -199-->    99t.tif
+24-04-21 12:25:35.637 : 99t.tif - PSNR: 34.90 dB; SSIM: 0.958; PSNRB: 34.52 dB.
+24-04-21 12:25:35.645 : predicted quality factor: 50
+24-04-21 12:25:35.663 : -200-->     9t.tif
+24-04-21 12:25:36.630 : 9t.tif - PSNR: 37.83 dB; SSIM: 0.963; PSNRB: 36.45 dB.
+24-04-21 12:25:36.632 : predicted quality factor: 50
+24-04-21 12:25:36.693 : Average PSNR/SSIM/PSNRB - COVERAGE_fbcnn_color_50 -: 35.68$\vert$0.9553$\vert$34.88.
